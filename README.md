@@ -16,5 +16,6 @@ ZAD0701 Poly modeling POT/CUP (Step pyramid > pot)(Cylinder > Cup)
 ZAD0702 Figurine sculpt
 ZAD0703 Face sculpt
 ```
-!(POT)[/Pot.JPG]
-!(CUP)[/Cup.JPG]
+![Gears](/Gears_02.JPG)
+![POT](/Pot.JPG)
+![CUP](/Cup.JPG)
