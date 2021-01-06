@@ -1,4 +1,4 @@
-# 07-Sculpting
+# 07-PolyShapes
 
 ## Software
 
